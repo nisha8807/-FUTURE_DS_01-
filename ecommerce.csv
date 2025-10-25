@@ -1,0 +1,12 @@
+order_id,order_date,customer_name,region,product_category,product_name,Quantity,unit_price,total_sales
+1,10-01-2025,Amit kumar,North,Electronics,Headphones,3,1200,3600
+2,12-01-2025,Riya Sharma,South,Clothing,T-shirt,5,600,3000
+3,01-02-2025,Arjun Mehta,West,Electronics,Smartphone,2,15000,30000
+4,15-02-2025,sneha patel,East,Furniture,Chair,4,2500,10000
+5,05-03-2025,Rohit verma,North,Clothing,Jacket,2,2000,40000
+6,04-02-2025,Alok aggrwal,East,Electronics,Bed,5,1000,80000
+7,07-03-2025,Monika jha,North,Clothing,Computer,6,6000,900000
+8,10-04-2025,Ankush jain,East,Electronics,Mouse,7,5000,110000
+9,05-01-2025,Simran kaur,North,Clothing,Keyboard,8,6000,120000
+10,11-04-2025,Khushi jain,East,Electronics,Bluetooth,9,2000,130000
+11,10-03-2025,Jitesh sani,North,Clothing,Laptop,10,3000,140000
